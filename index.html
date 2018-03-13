@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adamlink data</title>
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito:700" rel="stylesheet">
+	
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="#slider">Skip to slider</a></li>
+    </ul>
+</nav>
+<h1>Foto documentaire series Amsterdam in beeld gebracht</h1>
+<p>Uit de Collectie Stadsarchief Amsterdam: Documentaire Foto-Opdrachten, te vinden op <a href="http://beeldbank.amsterdam.nl/beeldbank?f_sk_collectie=Collectie+Stadsarchief+Amsterdam%3A+documentaire+foto-opdrachten"> Beeldbank Amsterdam</a>.</p>
+
+<section id="section">
+        <div id="container" tabindex="1">
+            <!-- <a href="" key-binding='source' class="source"></a> -->
+            <img src="" key-binding='image' class="image">
+                <h1 class="serie"></h1>
+                <p class="creator"></p>
+                
+                <h2 class="title"></h2>
+                <p class="description"></p>
+            <!-- <img src="" key-binding='image' class="image"> -->
+    </div>
+</section>
+<div id="loader">
+        <div class="load">Laden..</div>
+</div>
+
+<div id=navbar>
+    <div id="slider">
+        <p>1960</p><input id="year" type="range" min="1960" max="2016" step="1" value="1960"><p>2016</p>
+    </div>
+    <p id="result"></p>
+</div>
+<script src="js/transparency.js"></script>
+<script src="js/index.js"></script>
+</body>
+</html>
