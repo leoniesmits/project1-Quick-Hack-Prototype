@@ -99,13 +99,6 @@
             }
             return false;
         },
-        series: function(resultArray)  {
-            console.log("hey")
-            var descriptionValue = resultArray.forEach(collection.filterSerie);
-            setTimeout(function() {
-            }, 1000);
-
-        },
         filterSerie: function (item) {
             var serieObj = item.description.value;
             var findSerie = /uit de serie '(.*?)'/g;
