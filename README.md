@@ -1,6 +1,6 @@
 # API Stadsarchief Amsterdam
 
-[link to the project](https://leoniesmits.github.io/fe3-assessment-3/)
+[link to the project](https://leoniesmits.github.io/project1-Quick-Hack-Prototype/)
 
 In de week van 5 tot 9 maart 2018 mochten wij aan een project werken in de OBA, waar we met ingeladen data web apps hebben gemaakt.
 
