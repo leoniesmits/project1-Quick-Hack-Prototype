@@ -2,6 +2,8 @@
 
 [link to the project](https://leoniesmits.github.io/project1-Quick-Hack-Prototype/)
 
+__UPDATE:__ Dit project is gemaakt met de API van het Stadsarchief Amsterdam. Helaas zijn alleen de items binnen 1983-1984 nog beschikbaar.
+
 In de week van 5 tot 9 maart 2018 mochten wij aan een project werken in de OBA, waar we met ingeladen data web apps hebben gemaakt.
 
 ## Mijn project
